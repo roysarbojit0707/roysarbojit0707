@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roysarbojit0707&label=Profile%20views&color=0e75b6&style=flat" alt="roysarbojit0707" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roysarbojit0707" alt="roysarbojit0707" /></a> </p>
+<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=roysarbojit0707)]"><img src="(https://github.com/roysarbojit0707/github-profile-trophy)" /></a> </p>
 
 
 - 🌱 I’m currently learning **DSA, Java FullStack Development**
